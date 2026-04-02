@@ -1,7 +1,8 @@
-## Hi there 👋
+<img width="328" height="380" alt="image" src="https://github.com/user-attachments/assets/b6e08ce1-a57a-4cd7-8b5a-1e837da2d52a" />## Hi there 👋
 ### 나는 지금 2026년 바이오헬스 아카데미 수업을 수강하고있는 한예지라고 해^0^
 <!--
 **yejihan97/yejihan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="328" height="380" alt="캡처" src="https://github.com/user-attachments/assets/81d47f74-2332-4e78-b998-08e92eb51dd1" />
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 내가 공부하고 있는 내용은 다음 링크에 있어
+https://www.band.us/band/101702520/post
