@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### 나는 지금 2026년 바이오헬스 아카데미 수업을 수강하고있는 한예지라고 해^0^
 <!--
 **yejihan97/yejihan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
