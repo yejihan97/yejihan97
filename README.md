@@ -4,7 +4,7 @@
 https://yejihan97.github.io/My-first-repo/
 
 <img width="328" height="380" alt="image" src="https://github.com/user-attachments/assets/b6e08ce1-a57a-4cd7-8b5a-1e837da2d52a" />
-**yejihan97/yejihan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 -->
